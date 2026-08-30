@@ -1,0 +1,18 @@
+pkgbase = synsh
+	pkgdesc = SynapseOS natural language shell — AI-native command interface
+	pkgver = 0.1.0
+	pkgrel = 25
+	url = https://github.com/velle999/SYNAPSE
+	arch = x86_64
+	license = GPL-2.0-or-later
+	makedepends = meson
+	makedepends = ninja
+	makedepends = gcc
+	depends = glibc
+	depends = readline
+	optdepends = synapd: AI translation backend
+	backup = etc/synsh/synshrc
+	source = synsh-0.1.0.tar.gz::https://github.com/velle999/SYNAPSE/releases/download/synsh-0.1.0-25/synsh-0.1.0.tar.gz
+	sha256sums = SKIP
+
+pkgname = synsh
