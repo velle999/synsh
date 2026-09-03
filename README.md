@@ -118,4 +118,4 @@ Developed in [the SynapseOS monorepo](https://github.com/velle999/SYNAPSE),
 in `synsh/`. **This repository is generated from it** — the PKGBUILD, a
 generated `.SRCINFO` and this README — so issues and patches belong there.
 
-synsh 0.1.0-28 · GPL-2.0-or-later
+synsh 0.1.0-29 · GPL-2.0-or-later
